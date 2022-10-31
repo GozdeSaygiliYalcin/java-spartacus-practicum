@@ -1,4 +1,4 @@
-package com.gozdesy.task2;
+package com.gozdesy.week4.task2;
 
 import java.util.Scanner;
 

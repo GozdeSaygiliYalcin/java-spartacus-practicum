@@ -1,4 +1,4 @@
-package com.gozdesy.task3;
+package com.gozdesy.week4.task3;
 
 import java.util.Arrays;
 
